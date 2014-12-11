@@ -1,0 +1,14 @@
+html body {
+    width: 100%;
+    height: 100%;
+}
+#border {
+    width: 800px;
+    height: 400px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+.align_right_text {
+        text-align: right;
+}
